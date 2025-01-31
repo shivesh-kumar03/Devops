@@ -6,7 +6,7 @@ This series of lessons will cover the fundamentals of networking, which are esse
 
 The best way to understand networking is through the OSI 7-Layer model. This model divides networking into seven distinct components, starting from the physical layer at the bottom and progressing to the application layer at the top. The OSI model is a conceptual framework and not necessarily how networking software is implemented. It provides a strong base for understanding how each component works and interacts with others. The seven layers, from bottom to top, are: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
 
-![Image](https://github.com/user-attachments/assets/77bb7598-829f-47bd-96db-382c38a54939)
+<img align="center" src="https://github.com/user-attachments/assets/77bb7598-829f-47bd-96db-382c38a54939" alt="image">
      **OSI-Layers with different processes in each layer**
 
 The software performing the functions of these layers is known as the networking stack. Devices like laptops, phones, Wi-Fi routers, and servers all have a networking stack.
